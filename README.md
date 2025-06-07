@@ -1,6 +1,6 @@
 # Accelerating End-to-End Data Science Workflows - NVIDIA Certification
 
-![NVIDIA Logo](Bio-Defense Project Assessment/images/nvidia_header.png)
+![NVIDIA Logo][Bio-Defense Project Assessment/images/nvidia_header.png]
 
 ## 📝 Course Description
 This intensive NVIDIA certification program focuses on **GPU-accelerated data science** using the RAPIDS ecosystem. The course covers end-to-end workflows from data processing to machine learning deployment, demonstrating how GPUs can dramatically accelerate data science pipelines.
