@@ -25,7 +25,7 @@ This intensive NVIDIA certification program focuses on **GPU-accelerated data sc
 
  # Biodefense Outbreak Analysis - UK Epidemic Simulation
 
-![NVIDIA RAPIDS Logo](https://developer.nvidia.com/sites/default/files/akamai/rapids/images/RAPIDS-logo-white-500px.png)  
+![NVIDIA RAPIDS Logo]([https://developer.nvidia.com/sites/default/files/akamai/rapids/images/RAPIDS-logo-white-500px.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Frapids.ai%2Fbranding%2F&psig=AOvVaw0dnyYPDYQrZYuwy6BbQldv&ust=1749404710855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDtoMTu340DFQAAAAAdAAAAABAK))  
 *Accelerated with NVIDIA RAPIDS*
 
 ## Project Overview
@@ -57,8 +57,6 @@ This project analyzes a simulated epidemic outbreak in the UK using GPU-accelera
   - **Infected**: 8,638 individuals
   - **Geographic center**: [54.52°N, -1.57°W] (North Yorkshire region)
 
-![Cluster Visualization](images/cluster_map.png)  
-*Example cluster visualization (simulated data)*
 
 ## Week 3: Risk Factor Identification
 ### Key Findings
