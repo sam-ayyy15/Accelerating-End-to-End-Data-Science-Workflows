@@ -1,6 +1,6 @@
 # Accelerating End-to-End Data Science Workflows - NVIDIA Certification
 
-![NVIDIA Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NVIDIA_logo.svg/320px-NVIDIA_logo.svg.png)
+![NVIDIA Logo](Bio-Defense Project Assessment/images/nvidia_header.png)
 
 ## 📝 Course Description
 This intensive NVIDIA certification program focuses on **GPU-accelerated data science** using the RAPIDS ecosystem. The course covers end-to-end workflows from data processing to machine learning deployment, demonstrating how GPUs can dramatically accelerate data science pipelines.
@@ -24,9 +24,6 @@ This intensive NVIDIA certification program focuses on **GPU-accelerated data sc
 | **Deployment** | Triton Inference Server |
 
  # Biodefense Outbreak Analysis - UK Epidemic Simulation
-
-![NVIDIA RAPIDS Logo]([https://developer.nvidia.com/sites/default/files/akamai/rapids/images/RAPIDS-logo-white-500px.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Frapids.ai%2Fbranding%2F&psig=AOvVaw0dnyYPDYQrZYuwy6BbQldv&ust=1749404710855000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDtoMTu340DFQAAAAAdAAAAABAK))  
-*Accelerated with NVIDIA RAPIDS*
 
 ## Project Overview
 This project analyzes a simulated epidemic outbreak in the UK using GPU-accelerated data science tools. The workflow spans three critical weeks of outbreak response:
